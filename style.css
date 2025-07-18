@@ -10,6 +10,16 @@
     color: white;
 }
 
-.nav-logo{
-    
+.navlogo{
+
+    height: 50px;
+    width: 113px;
+
+}
+
+.logo{
+    background-image: url(./images/amazon_logo.png);
+    height: 50px;
+    width: 100%;
+    background-size: cover;
 }
