@@ -9,6 +9,7 @@
     background-color: #0F1111;
     color: white;
     display: flex;
+    align-items: center;
 }
 
 .navlogo{
@@ -31,4 +32,21 @@
 
 .border:hover{
     border: 1px solid white;
+}
+
+/** BOX-2 **/
+
+.address-first{
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+
+.address-second{
+    font-size: 1rem;
+    margin-left: 3px;
+}
+
+.address-icon{
+    display: flex;
 }
