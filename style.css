@@ -145,3 +145,11 @@ span{
     margin-left: 15px;
     font-size: 1.1rem;
 }
+
+/** Hero Section **/
+
+.hero-section {
+    background-image: url(./images/hero_image.jpg);
+    background-size: cover;
+    height: 600px;
+}
