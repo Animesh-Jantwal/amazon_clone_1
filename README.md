@@ -1,4 +1,4 @@
-Clone of Amazon Website Using HTML and CSS.
+Clone of Amazon Website Using HTML and CSS. ( This is not responsive and made for PC/Laptop )
 
 <img width="1436" height="820" alt="Screenshot 2025-07-25 at 12 37 19 AM" src="https://github.com/user-attachments/assets/110ea2f7-85d9-4178-8270-21723d2f7855" />
 <img width="1435" height="821" alt="Screenshot 2025-07-25 at 12 37 35 AM" src="https://github.com/user-attachments/assets/664af102-b410-4471-bb3c-4bcddb44e50a" />
