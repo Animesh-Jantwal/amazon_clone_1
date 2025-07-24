@@ -174,12 +174,12 @@ span{
 }
 
 .shop {
-    border: 2px solid black;
     height: 100px;
     width: 23%;
     height: 400px;
     background-color: white;
     margin-top: 20px;
+    padding: 20px 0px 15px;
     
     
 }
@@ -189,4 +189,20 @@ span{
     align-items: center;
     justify-content: space-evenly;
     background-color: #e2e7e6;
+}
+
+.box-img {
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.box-con {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.box-con p {
+    color: #007185;
 }
