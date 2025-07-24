@@ -186,9 +186,11 @@ span{
 
 .box {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
     background-color: #e2e7e6;
+    
 }
 
 .box-img {
