@@ -262,3 +262,22 @@ ul {
     background-size: cover;
     width: 100px;
 }
+
+.foot-panel4 {
+    background-color: #131A22;
+    color: #dddddd;
+    height: 80px;
+}
+
+.foot-ops {
+    font-size: 0.7rem;
+    text-align: center;
+    padding-top: 25px;
+}
+
+
+.copyright {
+    padding-top: 5px;
+    font-size: 0.7rem;
+    text-align: center;
+}
