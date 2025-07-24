@@ -172,3 +172,21 @@ span{
 .hero-messege a {
     color: #007185;
 }
+
+.shop {
+    border: 2px solid black;
+    height: 100px;
+    width: 23%;
+    height: 400px;
+    background-color: white;
+    margin-top: 20px;
+    
+    
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
